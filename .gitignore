@@ -1,0 +1,4 @@
+# 忽略了css文件
+bac.css
+# 忽略test文件夹
+test/
